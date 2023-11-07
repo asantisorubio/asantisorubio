@@ -1,6 +1,7 @@
-Welcome to my Github repository!
+# Welcome to my Github repository!
 
 ## About me
+
 Hi, I'm Adrián Santiso Rubio.
 
 I have recently graduated in Biochemistry from UAM.
